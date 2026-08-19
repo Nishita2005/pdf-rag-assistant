@@ -1,0 +1,1 @@
+Retrieval-Augmented Generation (RAG) is a technique that combines a language model with an external knowledge source. By fetching relevant document chunks from a vector database like FAISS, RAG helps language models answer questions accurately without hallucinating.
